@@ -1,0 +1,23 @@
+[
+	{
+		"Name": "first",
+		"value": "ar"
+		
+	},
+	{
+		"Name": "last",
+		"value": "king"
+	},
+	{
+		"Name": "email",
+		"value": "ar@gmail.com"
+	},
+  	{
+		"Name": "pass",
+		"value": "belive51295"
+	},
+	{
+		"Name": "pass_conf",
+		"value": "belive51295"
+	}
+]
